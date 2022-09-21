@@ -3,7 +3,7 @@ Cookenu
 
 # `Descrição`
 [Projeto desenvolvido na semana 20 do curso Labenu]. </br>
-O Projeto Cookenu-backend foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste na elaboração de uma API que retorna dados conforme as requisições enviadas. Trata-se de uma ferramenta de cadastro de usuários e receitas.
+O Projeto Cookenu-backend foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste na elaboração de uma API que retorna dados conforme as requisições enviadas. Trata-se de uma ferramenta de cadastro de usuários e receitas. Neste projeto foram utilizados alguns conceitos como POO, autenticação e autorização.
 
 A documentação da API pode ser acessada [aqui](https://documenter.getpostman.com/view/21552787/2s7YfLgvEB).
 
